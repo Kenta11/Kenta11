@@ -2,12 +2,8 @@
 
 ### GitHub Info
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kenta11&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenta11" />
-</a>
+[![GitHub status](https://github-readme-stats.vercel.app/api?username=Kenta11&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenta11)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Me
 
