@@ -2,8 +2,8 @@
 
 ### Me
 
-- Embedded Software Engineer
-- Shogi gamer
+- Embedded software engineer
+- Amateur shogi player
 
 ### Interest
 
