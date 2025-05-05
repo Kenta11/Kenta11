@@ -8,7 +8,7 @@
 ### Me
 
 - Embedded Software Engineer
-- Two-players, Zero-sum, Logical Perfection Information Gamer (Shogi, Chess and Go)
+- Shogi gamer
 
 ### Interest
 
